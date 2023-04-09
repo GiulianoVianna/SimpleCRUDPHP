@@ -1,5 +1,5 @@
 # Simple CRUD PHP
-Exemplo simples de CRUD em PHP.
+Exemplo simples de CRUD em PHP com SQLite3.
 
 ## Definição da Aplicação
 Essa aplicação é um exemplo simples de CRUD em PHP utilizando um banco de dados SQLite.No caso específico desta aplicação, o usuário pode cadastrar nomes e depois visualizar todos os nomes cadastrados em uma página de listagem. Além disso, é possível excluir nomes individualmente a partir de um botão "X" ao lado de cada nome na página de listagem.
